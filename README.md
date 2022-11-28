@@ -6,7 +6,7 @@ Because of destroyed private keys, SFN is no need trust, no inflation. It's reli
 So, if BTC is valuable, why not SFN?
 
 - Priority, Repurchase and more details please check the [official web](https://sfnart.carrd.co).
-- SFN has been [listed on DefiBOX](https://eos.defibox.io/marketDetail/2051). Please read the below "[Important Risk Notice](#important-risk-notice)" before you trade.
+- SFN has been [listed on DefiBOX](https://eos.defibox.io/marketDetail/2051). Please read the below "Important Risk Notice" before you trade.
 
 # Important Risk Notice
 SFN is public on EOS blockchain, only an experiment or game.
