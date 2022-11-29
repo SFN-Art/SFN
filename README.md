@@ -15,5 +15,7 @@ Like Bitcoin, **no one is responsible for its value. So, every investor or playe
 
 Private keys of [SFN smart contract](https://www.bloks.io/account/sfn.free) have been destroyed, but **there may still contain unanticipated risks.**
 
+==**Not investment advice, at your own risk!**==
+
 # Bug report
 This is a test project, if you find a bug please tell us by [email](shufannft@gmail.com), you will get the reward you deserve.
