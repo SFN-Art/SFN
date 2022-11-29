@@ -18,4 +18,4 @@ Private keys of [SFN smart contract](https://www.bloks.io/account/sfn.free) have
 ==**Not investment advice, at your own risk!**==
 
 # Bug report
-This is a test project, if you find a bug please tell us by [email](shufannft@gmail.com), you will get the reward you deserve.
+This is a test project, if you find a bug please tell us via [official web](https://sfnart.carrd.co/#risk), you will get the reward you deserve.
