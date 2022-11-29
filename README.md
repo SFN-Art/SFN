@@ -5,7 +5,7 @@ Because of destroyed private keys, SFN has no need trust, no inflation. It's rel
 
 So, if BTC is valuable, why not SFN?
 
-- Priority, Repurchase and more details please check the [official web](https://sfnart.carrd.co).
+- Priority, Repurchase and more details please check the [project web](https://sfnart.carrd.co).
 - SFN has been [listed on DefiBOX](https://eos.defibox.io/marketDetail/2051). Please read the below "Important Risk Notice" before you trade.
 
 # Important Risk Notice
@@ -18,4 +18,4 @@ Private keys of [SFN smart contract](https://www.bloks.io/account/sfn.free) have
 ==**Not investment advice, at your own risk!**==
 
 # Bug report
-This is a test project, if you find a bug please tell us via [official web](https://sfnart.carrd.co/#risk), you will get the reward you deserve.
+This is a test project, if you find a bug please tell us via [project web](https://sfnart.carrd.co/#risk), you will get the reward you deserve.
