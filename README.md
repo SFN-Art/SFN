@@ -1,7 +1,7 @@
 # SFN introduction
 SFN is an exploratory experiment of combining Art NFT with token on EOS. Maximum supply = 2100. Here is the code open source address.
 
-Because of destroyed private keys, SFN is no need trust, no inflation. It's reliable as BTC for freedom.
+Because of destroyed private keys, SFN has no need trust, no inflation. It's reliable as BTC for freedom.
 
 So, if BTC is valuable, why not SFN?
 
